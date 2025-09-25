@@ -1,0 +1,29 @@
+﻿<Window x:Class="ChatClientApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Chat Client" Height="400" Width="600">
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <!-- Input server dan user -->
+        <StackPanel Orientation="Horizontal" Margin="0,0,0,10">
+            <TextBox x:Name="IpBox" Width="120" Text="127.0.0.1"/>
+            <TextBox x:Name="PortBox" Width="60" Text="5000" Margin="5,0"/>
+            <TextBox x:Name="UserBox" Width="100" Text="User1" Margin="5,0"/>
+            <Button Content="Connect" Click="Connect_Click" Margin="5,0"/>
+        </StackPanel>
+
+        <!-- Chat log -->
+        <ListBox x:Name="ChatBox" Grid.Row="1" />
+
+        <!-- Input pesan -->
+        <StackPanel Orientation="Horizontal" Grid.Row="2" Margin="0,10,0,0">
+            <TextBox x:Name="MessageBox" Width="400"/>
+            <Button Content="Send" Click="Send_Click" Margin="5,0"/>
+        </StackPanel>
+    </Grid>
+</Window>

@@ -1,0 +1,29 @@
+﻿<Window x:Class="ChatServerApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Chat Server" Height="450" Width="700">
+    <Grid Margin="10">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="2*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <!-- Log aktivitas -->
+        <ListBox x:Name="LogBox" Grid.Row="0" Grid.Column="0" />
+
+        <!-- List client yang terhubung -->
+        <GroupBox Header="Connected Clients" Grid.Row="0" Grid.Column="1" Margin="10,0,0,0">
+            <ListBox x:Name="ClientList" />
+        </GroupBox>
+
+        <!-- Tombol kontrol -->
+        <StackPanel Grid.Row="1" Grid.ColumnSpan="2" Orientation="Horizontal" HorizontalAlignment="Center" Margin="0,10,0,0">
+            <Button Content="Start Server" Click="StartServer_Click" Margin="5"/>
+            <Button Content="Stop Server" Click="StopServer_Click" Margin="5"/>
+        </StackPanel>
+    </Grid>
+</Window>
