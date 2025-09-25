@@ -3,44 +3,28 @@
   "WorkspaceRootPath": "D:\\Semester 5\\Jaringan Komputer\\AppChat\\ChatServerApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2B034F9E-8943-4AD5-B2D1-FE7551032855}|ChatClient\\ChatServers.csproj|d:\\semester 5\\jaringan komputer\\appchat\\chatserverapp\\chatclient\\chatservers.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{2B034F9E-8943-4AD5-B2D1-FE7551032855}|ChatClient\\ChatServers.csproj|solutionrelative:chatclient\\chatservers.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C6DAB9A7-0B94-4186-A920-17FF657ED2C6}|ChatServerApp\\ChatClient.csproj|d:\\semester 5\\jaringan komputer\\appchat\\chatserverapp\\chatserverapp\\chatclient.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{C6DAB9A7-0B94-4186-A920-17FF657ED2C6}|ChatServerApp\\ChatClient.csproj|solutionrelative:chatserverapp\\chatclient.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C6DAB9A7-0B94-4186-A920-17FF657ED2C6}|ChatServerApp\\ChatClient.csproj|d:\\semester 5\\jaringan komputer\\appchat\\chatserverapp\\chatserverapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C6DAB9A7-0B94-4186-A920-17FF657ED2C6}|ChatServerApp\\ChatClient.csproj|solutionrelative:chatserverapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C6DAB9A7-0B94-4186-A920-17FF657ED2C6}|ChatServerApp\\ChatClient.csproj|d:\\semester 5\\jaringan komputer\\appchat\\chatserverapp\\chatserverapp\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C6DAB9A7-0B94-4186-A920-17FF657ED2C6}|ChatServerApp\\ChatClient.csproj|solutionrelative:chatserverapp\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2B034F9E-8943-4AD5-B2D1-FE7551032855}|ChatClient\\ChatServers.csproj|d:\\semester 5\\jaringan komputer\\appchat\\chatserverapp\\chatclient\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2B034F9E-8943-4AD5-B2D1-FE7551032855}|ChatClient\\ChatServers.csproj|solutionrelative:chatclient\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2B034F9E-8943-4AD5-B2D1-FE7551032855}|ChatClient\\ChatServers.csproj|d:\\semester 5\\jaringan komputer\\appchat\\chatserverapp\\chatclient\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{2B034F9E-8943-4AD5-B2D1-FE7551032855}|ChatClient\\ChatServers.csproj|solutionrelative:chatclient\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2B034F9E-8943-4AD5-B2D1-FE7551032855}|ChatClient\\ChatServers.csproj|d:\\semester 5\\jaringan komputer\\appchat\\chatserverapp\\chatclient\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2B034F9E-8943-4AD5-B2D1-FE7551032855}|ChatClient\\ChatServers.csproj|solutionrelative:chatclient\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C6DAB9A7-0B94-4186-A920-17FF657ED2C6}|ChatServerApp\\ChatClient.csproj|d:\\semester 5\\jaringan komputer\\appchat\\chatserverapp\\chatserverapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C6DAB9A7-0B94-4186-A920-17FF657ED2C6}|ChatServerApp\\ChatClient.csproj|solutionrelative:chatserverapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C6DAB9A7-0B94-4186-A920-17FF657ED2C6}|ChatServerApp\\ChatClient.csproj|d:\\semester 5\\jaringan komputer\\appchat\\chatserverapp\\chatserverapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{C6DAB9A7-0B94-4186-A920-17FF657ED2C6}|ChatServerApp\\ChatClient.csproj|solutionrelative:chatserverapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C6DAB9A7-0B94-4186-A920-17FF657ED2C6}|ChatServerApp\\ChatClient.csproj|d:\\semester 5\\jaringan komputer\\appchat\\chatserverapp\\chatserverapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{C6DAB9A7-0B94-4186-A920-17FF657ED2C6}|ChatServerApp\\ChatClient.csproj|solutionrelative:chatserverapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6DAB9A7-0B94-4186-A920-17FF657ED2C6}|ChatServerApp\\ChatClient.csproj|d:\\semester 5\\jaringan komputer\\appchat\\chatserverapp\\chatserverapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6DAB9A7-0B94-4186-A920-17FF657ED2C6}|ChatServerApp\\ChatClient.csproj|solutionrelative:chatserverapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6DAB9A7-0B94-4186-A920-17FF657ED2C6}|ChatServerApp\\ChatClient.csproj|d:\\semester 5\\jaringan komputer\\appchat\\chatserverapp\\chatserverapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6DAB9A7-0B94-4186-A920-17FF657ED2C6}|ChatServerApp\\ChatClient.csproj|solutionrelative:chatserverapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B034F9E-8943-4AD5-B2D1-FE7551032855}|ChatClient\\ChatServers.csproj|d:\\semester 5\\jaringan komputer\\appchat\\chatserverapp\\chatclient\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B034F9E-8943-4AD5-B2D1-FE7551032855}|ChatClient\\ChatServers.csproj|solutionrelative:chatclient\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6DAB9A7-0B94-4186-A920-17FF657ED2C6}|ChatServerApp\\ChatClient.csproj|d:\\semester 5\\jaringan komputer\\appchat\\chatserverapp\\chatserverapp\\obj\\debug\\net9.0-windows\\mainwindow.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6DAB9A7-0B94-4186-A920-17FF657ED2C6}|ChatServerApp\\ChatClient.csproj|solutionrelative:chatserverapp\\obj\\debug\\net9.0-windows\\mainwindow.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,133 +34,87 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\Semester 5\\Jaringan Komputer\\AppChat\\ChatServerApp\\ChatServerApp\\App.xaml.cs",
+              "RelativeDocumentMoniker": "ChatServerApp\\App.xaml.cs",
+              "ToolTip": "D:\\Semester 5\\Jaringan Komputer\\AppChat\\ChatServerApp\\ChatServerApp\\App.xaml.cs",
+              "RelativeToolTip": "ChatServerApp\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T08:31:05.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.g.i.cs",
+              "DocumentMoniker": "D:\\Semester 5\\Jaringan Komputer\\AppChat\\ChatServerApp\\ChatServerApp\\obj\\Debug\\net9.0-windows\\MainWindow.g.i.cs",
+              "RelativeDocumentMoniker": "ChatServerApp\\obj\\Debug\\net9.0-windows\\MainWindow.g.i.cs",
+              "ToolTip": "D:\\Semester 5\\Jaringan Komputer\\AppChat\\ChatServerApp\\ChatServerApp\\obj\\Debug\\net9.0-windows\\MainWindow.g.i.cs",
+              "RelativeToolTip": "ChatServerApp\\obj\\Debug\\net9.0-windows\\MainWindow.g.i.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T08:24:03.69Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ChatServers.csproj",
-              "DocumentMoniker": "D:\\Semester 5\\Jaringan Komputer\\AppChat\\ChatServerApp\\ChatClient\\ChatServers.csproj",
-              "RelativeDocumentMoniker": "ChatClient\\ChatServers.csproj",
-              "ToolTip": "D:\\Semester 5\\Jaringan Komputer\\AppChat\\ChatServerApp\\ChatClient\\ChatServers.csproj",
-              "RelativeToolTip": "ChatClient\\ChatServers.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-09-24T13:25:26.159Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AssemblyInfo.cs",
-              "DocumentMoniker": "D:\\Semester 5\\Jaringan Komputer\\AppChat\\ChatServerApp\\ChatClient\\AssemblyInfo.cs",
-              "RelativeDocumentMoniker": "ChatClient\\AssemblyInfo.cs",
-              "ToolTip": "D:\\Semester 5\\Jaringan Komputer\\AppChat\\ChatServerApp\\ChatClient\\AssemblyInfo.cs",
-              "RelativeToolTip": "ChatClient\\AssemblyInfo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T13:01:29.045Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "D:\\Semester 5\\Jaringan Komputer\\AppChat\\ChatServerApp\\ChatClient\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "ChatClient\\MainWindow.xaml",
-              "ToolTip": "D:\\Semester 5\\Jaringan Komputer\\AppChat\\ChatServerApp\\ChatClient\\MainWindow.xaml",
-              "RelativeToolTip": "ChatClient\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-09-24T13:01:24.162Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "D:\\Semester 5\\Jaringan Komputer\\AppChat\\ChatServerApp\\ChatClient\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "ChatClient\\MainWindow.xaml.cs",
-              "ToolTip": "D:\\Semester 5\\Jaringan Komputer\\AppChat\\ChatServerApp\\ChatClient\\MainWindow.xaml.cs",
-              "RelativeToolTip": "ChatClient\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAYwDsAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T13:01:23.798Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ChatClient.csproj",
-              "DocumentMoniker": "D:\\Semester 5\\Jaringan Komputer\\AppChat\\ChatServerApp\\ChatServerApp\\ChatClient.csproj",
-              "RelativeDocumentMoniker": "ChatServerApp\\ChatClient.csproj",
-              "ToolTip": "D:\\Semester 5\\Jaringan Komputer\\AppChat\\ChatServerApp\\ChatServerApp\\ChatClient.csproj",
-              "RelativeToolTip": "ChatServerApp\\ChatClient.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-09-24T12:50:33.563Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "App.xaml.cs",
-              "DocumentMoniker": "D:\\Semester 5\\Jaringan Komputer\\AppChat\\ChatServerApp\\ChatServerApp\\App.xaml.cs",
-              "RelativeDocumentMoniker": "ChatServerApp\\App.xaml.cs",
-              "ToolTip": "D:\\Semester 5\\Jaringan Komputer\\AppChat\\ChatServerApp\\ChatServerApp\\App.xaml.cs",
-              "RelativeToolTip": "ChatServerApp\\App.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABBAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T12:24:52.508Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AssemblyInfo.cs",
-              "DocumentMoniker": "D:\\Semester 5\\Jaringan Komputer\\AppChat\\ChatServerApp\\ChatServerApp\\AssemblyInfo.cs",
-              "RelativeDocumentMoniker": "ChatServerApp\\AssemblyInfo.cs",
-              "ToolTip": "D:\\Semester 5\\Jaringan Komputer\\AppChat\\ChatServerApp\\ChatServerApp\\AssemblyInfo.cs",
-              "RelativeToolTip": "ChatServerApp\\AssemblyInfo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T12:24:49.702Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "D:\\Semester 5\\Jaringan Komputer\\AppChat\\ChatServerApp\\ChatServerApp\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "ChatServerApp\\MainWindow.xaml",
-              "ToolTip": "D:\\Semester 5\\Jaringan Komputer\\AppChat\\ChatServerApp\\ChatServerApp\\MainWindow.xaml",
-              "RelativeToolTip": "ChatServerApp\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-09-24T12:24:42.058Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "D:\\Semester 5\\Jaringan Komputer\\AppChat\\ChatServerApp\\ChatServerApp\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "ChatServerApp\\MainWindow.xaml.cs",
-              "ToolTip": "D:\\Semester 5\\Jaringan Komputer\\AppChat\\ChatServerApp\\ChatServerApp\\MainWindow.xaml.cs",
-              "RelativeToolTip": "ChatServerApp\\MainWindow.xaml.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAowEYAAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T12:24:36.022Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
               "Title": "App.xaml",
               "DocumentMoniker": "D:\\Semester 5\\Jaringan Komputer\\AppChat\\ChatServerApp\\ChatServerApp\\App.xaml",
               "RelativeDocumentMoniker": "ChatServerApp\\App.xaml",
               "ToolTip": "D:\\Semester 5\\Jaringan Komputer\\AppChat\\ChatServerApp\\ChatServerApp\\App.xaml",
               "RelativeToolTip": "ChatServerApp\\App.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-09-24T13:11:22.4Z"
+              "WhenOpened": "2025-09-25T08:24:11.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Semester 5\\Jaringan Komputer\\AppChat\\ChatServerApp\\ChatServerApp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ChatServerApp\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\Semester 5\\Jaringan Komputer\\AppChat\\ChatServerApp\\ChatServerApp\\MainWindow.xaml.cs",
+              "RelativeToolTip": "ChatServerApp\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwAoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T08:22:15.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\Semester 5\\Jaringan Komputer\\AppChat\\ChatServerApp\\ChatServerApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ChatServerApp\\MainWindow.xaml",
+              "ToolTip": "D:\\Semester 5\\Jaringan Komputer\\AppChat\\ChatServerApp\\ChatServerApp\\MainWindow.xaml*",
+              "RelativeToolTip": "ChatServerApp\\MainWindow.xaml*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-09-25T08:22:07.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Semester 5\\Jaringan Komputer\\AppChat\\ChatServerApp\\ChatClient\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ChatClient\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\Semester 5\\Jaringan Komputer\\AppChat\\ChatServerApp\\ChatClient\\MainWindow.xaml.cs",
+              "RelativeToolTip": "ChatClient\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T13:01:23.798Z",
+              "EditorCaption": ""
             }
           ]
         },
